@@ -1,0 +1,15 @@
+Download all cx_freeze
+Open CMD
+Copy cx_freeze Path
+open cmd
+pip install "D:\Backup\Python\Python Projects\Setup Maker\cx_Freeze-6.11.1-cp310-cp310-win_amd64.whl"
+Paste setup file in the folder of Python
+Replcae the Paths There with go to python location replace
+Go to the python folder where it is installed//DLL//copy two files//tcl86t.dll+tk86t.dll Paste it to main file
+Delte all files that are not important
+Paste Icon File
+Add icon to setup
+Paste all lbraries and files that you want in setup
+Write cmd in the url of folder
+write python setup.py bdist_msi
+mac=python setup.py bdist_dmg 

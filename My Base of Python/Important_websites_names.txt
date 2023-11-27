@@ -1,0 +1,4 @@
+# Icons Download from any website in png 24x24
+# Emoji unicode.org
+# Add Icon
+# main_application.wm_iconbitmap('icon.ico')
