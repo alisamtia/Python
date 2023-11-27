@@ -1,0 +1,6 @@
+Harshit,100
+Ahmed,400
+Ramzan,200
+Noman,300
+
+

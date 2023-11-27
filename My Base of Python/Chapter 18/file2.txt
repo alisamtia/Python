@@ -1,0 +1,4 @@
+Harshit's sallary is 100
+Ahmed's sallary is 400
+Ramzan's sallary is 200
+Noman's sallary is 300
